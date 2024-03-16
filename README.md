@@ -1,10 +1,15 @@
 ## Some stuff
-[Firefox oneliner mod](https://github.com/dsys1100/OnelineProton_mod) ; [Prebuilded KDE Lightly](https://github.com/dsys1100/stuff/tree/main/KDE_Lightly) ; [Edited KDE Willow](https://github.com/dsys1100/stuff/tree/main/KDE_Willow) ; [insert text](https://github.com/dsys1100)
+[Firefox oneliner mod](https://github.com/dsys1100/OnelineProton_mod) ; [Prebuilded KDE Lightly](https://github.com/dsys1100/stuff/) ; [Edited KDE Willow](https://github.com/dsys1100/stuff/) ; [insert text](https://github.com/dsys1100)
 
 
 ## Some scripts for Linux
 
-#### Remove all snaps and snapd and replace Firefox to normal version (Ubuntu)
+#### Install pmbootstrap
+```
+wget link -O - | bash
+```
+
+#### Remove all snaps and snapd and replace Firefox to normal version
 ```
 wget link -O - | bash
 ```
@@ -14,7 +19,7 @@ wget link -O - | bash
 wget link -O - | bash
 ```
 
-#### Install Docker+Portrainer to KDE Neon (Ubuntu 22.04)
+#### Install Docker+Portrainer to Deb-based
 ```
 wget link -O - | bash
 ```
@@ -24,7 +29,7 @@ wget link -O - | bash
 wget link -O - | bash
 ```
 
-#### Install PortProton to KDE Neon (Ubuntu 22.04)
+#### Install PortProton to Deb-based
 ```
 wget link -O - | bash
 ```
@@ -40,6 +45,11 @@ wget link -O - | bash
 ```
 
 #### Update Debian 11,12 to Debian 13
+```
+wget link -O - | bash
+```
+
+#### Sudo Dolphin script
 ```
 wget link -O - | bash
 ```
