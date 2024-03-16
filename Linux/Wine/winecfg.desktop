@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=winecfg
+GenericName=Config Wine
+Icon=wine
+Name=winecfg
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=System;
+X-KDE-SubstituteUID=false
+X-KDE-Username=

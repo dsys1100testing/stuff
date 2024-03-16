@@ -1,3 +1,6 @@
+#### Lightly Application Style
+Prebuilt [This](https://github.com/Luwx/Lightly) in KDE Neon for Willow theme. Copy /usr contents to /usr
+
 #### Whiten titlebar (gray to white)
 ![](https://github.com/dsys1100testing/stuff/blob/main/KDE_Willow/Screenshot.png)
 ```

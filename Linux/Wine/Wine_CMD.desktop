@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=wine ~/.wine/drive_c/windows/system32/cmd.exe
+GenericName=Windows Commandline in /home/username/ folder
+Icon=utilities-terminal
+Name=Wine_CMD
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+Categories=System;
+X-KDE-SubstituteUID=false
+X-KDE-Username=

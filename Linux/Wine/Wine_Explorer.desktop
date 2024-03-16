@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=
+Exec=wine ~/.wine/drive_c/windows/explorer.exe
+GenericName=Windows Explorer
+Icon=system-file-manager
+Name=Wine_Explorer
+NoDisplay=false
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Categories=System;
+X-KDE-SubstituteUID=false
+X-KDE-Username=
