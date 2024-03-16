@@ -34,4 +34,4 @@ Package: *
 Pin: release o=LP-PPA-mozillateam
 Pin-Priority: 1001
 ' | sudo tee /etc/apt/preferences.d/mozilla-firefox.pref
-sudo apt update && sudo apt upgrade -y && sudo apt install firefox -y
+sudo apt update && sudo apt upgrade -y && sudo apt install firefox -y && apt autoremove -y
